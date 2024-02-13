@@ -1,10 +1,13 @@
-# Ruby on Rails
+# Quick Start
+```
+rails s
+```
 
-- Device[Gem]: handles all the user management.
-- Ruby Association: 
-
-# Command
+# Nodes
+- Device: handles all the user management.
+- Ruby Association
 - Install Gemfile without production settings.
 ```
 bundle config set without 'production'
+
 ```
